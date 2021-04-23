@@ -12,7 +12,7 @@
 ```java
 
  public List<Linguagem> linguagens = Arrays.asList(new Linguagem("Java"), 
-   new Lingagugem("Cobol"), new Linguagem("AdvPl"));
+   new Linguagem("Cobol"), new Linguagem("AdvPl"));
    
  public List<BancoDeDado> bancosDeDados =Arrays.asList(new BancoDeDados("SQL Server"), 
    new BancoDeDados("MySQL"), new BancoDeDados("Cassandra"), new BancoDeDados("H2"), 
