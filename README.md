@@ -1,6 +1,6 @@
 <h2> Hey, bem vindo(a) ao meu perfil!</h2>
 <p><em>Estudante de Ciência da Computação na <a href="https://www.unip.br/">Universidade Paulista</a><img src="https://media.giphy.com/media/WMRb9p6N4mtIRtE2zr/giphy.gif" width="35">
-</br>Engenheira de Software Junior no <a href="https://www.itau.com.br/">Itaú Unibanco</a><img src="https://media.giphy.com/media/YcxIRLlAt3tt2dg8jN/giphy.gif" width="35"> 
+</br>Engenheira de Software Pleno no <a href="https://www.itau.com.br/">Itaú Unibanco</a><img src="https://media.giphy.com/media/YcxIRLlAt3tt2dg8jN/giphy.gif" width="35"> 
 </em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/karine-antunes/)
@@ -12,11 +12,11 @@
 ```java
 
  public List<Linguagem> linguagens = Arrays.asList(new Linguagem("Java"), 
-   new Linguagem("Cobol"), new Linguagem("AdvPl"));
+   new Linguagem("Cobol"), new Linguagem("AdvPl"), new Linguagem("Python (Em andamento)"));
    
  public List<BancoDeDado> bancosDeDados =Arrays.asList(new BancoDeDados("SQL Server"), 
    new BancoDeDados("MySQL"), new BancoDeDados("Cassandra"), new BancoDeDados("H2"), 
-   new BancoDeDados("PostgreSQL"));
+   new BancoDeDados("PostgreSQL"), new BancoDeDados("DynamoDB"));
    
  public List<Outro> outros = Arrays.asList(new Outro("Spring"), new Outro("Maven"),
    new Outro("Arq. Hexagonal"), new Outro("Hibernate"), new Outro("Web Services"), 
